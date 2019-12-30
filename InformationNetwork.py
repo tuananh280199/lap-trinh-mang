@@ -11,3 +11,6 @@ if __name__ == '__main__':
 			print("Subnet mask : {0}".format(dcip['netmask']))
 			gateway = netifaces.gateways()
 			print("Defaunt gateways : ",gateway['defaunt'][netifaces.AF_INET[0]])
+
+
+print("Bao loi dong so 1")
