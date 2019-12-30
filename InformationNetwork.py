@@ -14,4 +14,4 @@ if __name__ == '__main__':
 
 
 printf("Bao loi dong so 1")
-printf("Chua tim ra duoc err")
+printf("Bao loi khong import duoc thu vien netifaces")
