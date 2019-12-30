@@ -13,4 +13,5 @@ if __name__ == '__main__':
 			print("Defaunt gateways : ",gateway['defaunt'][netifaces.AF_INET[0]])
 
 
-print("Bao loi dong so 1")
+printf("Bao loi dong so 1")
+printf("Chua tim ra duoc err")
