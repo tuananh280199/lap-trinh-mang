@@ -16,4 +16,6 @@ if __name__ == '__main__':
 printf("Bao loi dong so 1")
 printf("Bao loi khong import duoc thu vien netifaces")
 
-printf("Tao sua cho loi tren sublime text")
+
+printf("tao confielect")
+>>>>>>> 2d53210165d1100b63e7aef88202f95b09bd9d69
