@@ -16,4 +16,4 @@ if __name__ == '__main__':
 printf("Bao loi dong so 1")
 printf("Bao loi khong import duoc thu vien netifaces")
 
-printf("Tao confilect")
+printf("Tao ta cung sua cho nay day")
